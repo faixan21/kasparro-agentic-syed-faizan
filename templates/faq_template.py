@@ -1,4 +1,5 @@
 FAQ_TEMPLATE = {
+    "name": "FAQPage",
     "fields": ["question", "answer"],
-    "description": "Template for FAQ entries generated from product data"
+    "min_items": 5
 }
